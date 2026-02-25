@@ -4,7 +4,7 @@ This repository tracks my daily progress in Python as I prepare for upcoming pla
 ## 📅 Daily Progress
 - [x] **Day 1:** Basic Syntax - Printing a simple one-line sentence.
 - [x] **Day 2:** Variables and Data Types - Understanding how Python stores information.
-- [x] **Day 3:**  If,elif,else-Understanding how if staments are works.
+- [x] **Day 3:**  If,elif,else-Understanding how if statements are works.
 
 ## 🏆 HackerRank Challenges
 - [x] **Python If-Else:** Solved logic-based conditional problems.
