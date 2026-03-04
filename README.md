@@ -8,6 +8,7 @@ This repository tracks my daily progress in Python as I prepare for upcoming pla
 - [x] **Day 4:** Developed basic calculator using if,elif,else statements.
 - [x] **Day 5:** Solved list problem.used append method and for loop.
 - [x] **Day 6:** Solved problem using sort,remove and pop methods.
+- [ ] **Day 7:** Solved dictionaries problems..
 
 ## 🏆 HackerRank Challenges
 - [x] **Python If-Else:** Solved logic-based conditional problems.
