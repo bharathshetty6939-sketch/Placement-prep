@@ -6,7 +6,8 @@ This repository tracks my daily progress in Python as I prepare for upcoming pla
 - [x] **Day 2:** Variables and Data Types - Understanding how Python stores information.
 - [x] **Day 3:** If,elif,else-Understanding how if staments are works.
 - [x] **Day 4:** Developed basic calculator using if,elif,else statements.
-- [x] **Day 4:** Solved list problem.used append method and for loop.
+- [x] **Day 5:** Solved list problem.used append method and for loop.
+- [x] **Day 6:** Solved problem using sort,remove and pop methods.
 
 ## 🏆 HackerRank Challenges
 - [x] **Python If-Else:** Solved logic-based conditional problems.
