@@ -1,5 +1,5 @@
 # 🧠 Placement Aptitude Tracker
-*My personal cheat sheet for technical rounds (2026)*
+*My personal cheat sheet for technical rounds *
 
 ---
 
@@ -12,7 +12,7 @@
 ## 📈 Percentages & Profit
 **Problem:** Finding "Original Value" when a percentage is lost/sold.
 - **The Logic:** If $X\%$ is sold, then $(100 - X)\%$ is what remains.
-- **Formula:** $Total =%(remaing value/x%)$*$100$.
+- **Formula:** Total =(remaing value/x)*100.
 
 ## Actual distance
 **Problem:** Finding the actual distance when multiple distance is given.
