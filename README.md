@@ -8,7 +8,8 @@ This repository tracks my daily progress in Python as I prepare for upcoming pla
 - [x] **Day 4:** Developed basic calculator using if,elif,else statements.
 - [x] **Day 5:** Solved list problem.used append method and for loop.
 - [x] **Day 6:** Solved problem using sort,remove and pop methods.
-- [ ] **Day 7:** Solved dictionaries problems..
+- [x] **Day 7:** Solved dictionaries problems..
+- [x] **day 8:** Solved return type problems..
 
 ## 🏆 HackerRank Challenges
 - [x] **Python If-Else:** Solved logic-based conditional problems.
@@ -16,6 +17,7 @@ This repository tracks my daily progress in Python as I prepare for upcoming pla
 - [x] **Python: Print Function:** Print the function using For loop.
 - [x] **Python: For loops:** Used For loops to get sqaure of the numbers.
 - [x] **Python: For loops:** Used For loops to Find leaf years.
+- [x] **Python: sorting:** Used sorting and split function to find the runnerup in the given multiple scores..
 
 
 ## 💻 Tech Stack
