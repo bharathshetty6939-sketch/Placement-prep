@@ -10,6 +10,7 @@ This repository tracks my daily progress in Python as I prepare for upcoming pla
 - [x] **Day 6:** Solved problem using sort,remove and pop methods.
 - [x] **Day 7:** Solved dictionaries problems..
 - [x] **day 8:** Solved return type problems..
+- [x] **Day 9:** Solved returing lowest and highest number problem using def and return type function.
 
 ## 🏆 HackerRank Challenges
 - [x] **Python If-Else:** Solved logic-based conditional problems.
