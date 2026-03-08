@@ -19,3 +19,8 @@
 - **The logic** $x$ is the value to be found.
     - **Formula**(x/gs1)(x+gv/gs2)
 
+## work & time
+**Problem:** Question: * A can finish a task in 10 days.B can finish it in 15 days.If they,how many days will it take?together.
+- **The logic** multiply and deivide both A and B values.
+    - **Formula**Time = A*B/A+B.
+ 
