@@ -23,4 +23,11 @@
 **Problem:** Question: * A can finish a task in 10 days.B can finish it in 15 days.If they,how many days will it take?together.
 - **The logic** multiply and deivide both A and B values.
     - **Formula**Time = A*B/A+B.
+  
+## Ration and propotion
+**Problem:**Two numbers are in the ratio 3 : 5. If each number is increased by 10, the new ratio becomes 5 : 7. What are the two original numbers?
+- **The logic**  Let the numbers be 3x and 5x.
+    -**Formula**3x+10/5x+10=5/7.cross multiplye this.
+    ​
+    
  
