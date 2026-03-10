@@ -11,6 +11,8 @@ This repository tracks my daily progress in Python as I prepare for upcoming pla
 - [x] **Day 7:** Solved dictionaries problems..
 - [x] **day 8:** Solved return type problems..
 - [x] **Day 9:** Solved returing lowest and highest number problem using def and return type function.
+- [x] **Day 10:** Solved a problem which returns special number and used len function to find the length of the list.
+- [x] **Day 11:** Used multiple tools to perform task on a list like insert,remove,extend ,add,count and index.   
 
 ## 🏆 HackerRank Challenges
 - [x] **Python If-Else:** Solved logic-based conditional problems.
@@ -19,6 +21,7 @@ This repository tracks my daily progress in Python as I prepare for upcoming pla
 - [x] **Python: For loops:** Used For loops to get sqaure of the numbers.
 - [x] **Python: For loops:** Used For loops to Find leaf years.
 - [x] **Python: sorting:** Used sorting and split function to find the runnerup in the given multiple scores..
+- [x] **Python: List Comprehention:** Used list comprehention method to solve a problem.
 
 
 ## 💻 Tech Stack
