@@ -46,3 +46,11 @@
     - **Formula**2xy/x+y.
                 2(20)(30)/20+30
                 1200/50=24km/hr
+
+## Problem 8##
+##  Time and Work
+**problem**Person A can finish a task in 12 days. Person B can finish the same task in 6 days.If they work together, how many days will they take to finish the work?
+- **The logic** Take both value as x and y,multiplye and divide both values together.
+    - **Formula**x*y/x+y.
+                12*6/12+6=72/18
+                =4 Days.
