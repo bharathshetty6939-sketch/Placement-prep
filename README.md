@@ -15,6 +15,7 @@ This repository tracks my daily progress in Python as I prepare for upcoming pla
 - [x] **Day 11:** Used multiple tools to perform task on a list like insert,remove,extend ,add,count and index.
 - [x] **Day 12:** Found the perfect sqaure number in the given list by finding its root and checking its root is interger or not by using is.integer function.
 - [x] **Day 13:** Found the sum of only unique numbers in the given list by using count function.
+- [x] **Day 14:** Peformed operation on the string using split and join function. 
 
 ## 🏆 HackerRank Challenges
 - [x] **Python If-Else:** Solved logic-based conditional problems.
