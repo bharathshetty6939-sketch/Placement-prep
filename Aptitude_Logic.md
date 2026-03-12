@@ -54,3 +54,19 @@
     - **Formula**x*y/x+y.
                 12*6/12+6=72/18
                 =4 Days.
+
+
+## Problem 9
+## Avg Time
+**Problem** Person A can do a job in 10 days.
+            Person B can do it in 15 days.
+            Person C can do it in 18 days.
+            How long will they take if all three work together?
+    -**The logic**Find the LCM of 10,15,18  which is 90.then divide 90 by all numbers to find the units per day.Find the total units per day.Divide 90 by total unit per day.
+     -**Solution**  90/10=9 units/day.
+                    90/15=6 units/day.
+                    90/18=5 units/day.
+                    total=20 units/day.
+
+
+                    90/20=4.5 Days.
