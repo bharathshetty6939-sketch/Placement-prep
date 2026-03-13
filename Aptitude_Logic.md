@@ -66,7 +66,12 @@
     - **Solution**  90/10=9 units/day.
                     90/15=6 units/day.
                     90/18=5 units/day.
-                    total=20 units/day.
-
-
+                    total=20 units/day
                     90/20=4.5 Days.
+
+
+## Problem 10
+## The unit work rule
+**Problem** if 5 people can eat 5 apples in 5 minutes, how long does it take 100 people to eat 100 apples?
+- **Answer**5 minutes. * Why? Because each person still only has to eat 1 apple, and they are all eating at the same time!
+
