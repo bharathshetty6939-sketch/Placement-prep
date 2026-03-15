@@ -17,7 +17,9 @@ This repository tracks my daily progress in Python as I prepare for upcoming pla
 - [x] **Day 13:** Found the sum of only unique numbers in the given list by using count function.
 - [x] **Day 14:** Peformed operation on the string using split and join function.
 - [x] **Day 15:** Found the sum of multidigit number by using % and // operations.
-- [x] **Day 16:** Changed all lowercase to uppercase and vice versa. 
+- [x] **Day 16:** Changed all lowercase to uppercase and vice versa.
+- [x] **Day 17:** Mutation code solved.
+- [X] **Day 18:** Printed simple sentence using fstring.  
 
 ## 🏆 HackerRank Challenges
 - [x] **Python If-Else:** Solved logic-based conditional problems.
