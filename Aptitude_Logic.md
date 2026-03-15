@@ -75,3 +75,13 @@
 **Problem** if 5 people can eat 5 apples in 5 minutes, how long does it take 100 people to eat 100 apples?
 - **Answer**5 minutes. * Why? Because each person still only has to eat 1 apple, and they are all eating at the same time!
 
+
+
+## Problem 11
+## The wage and work
+**Problem** If two people work together, how do you split the money?
+ - **The logic** Money is always divided based on the Work Done, not just time spent.
+  -**Example** If A does 3 unit/day work.B does 2unit/day work.If total pay is 500.
+               Then,
+               A's Share 3/5*500=300rs
+               B's Share 2/5*500=200rs
