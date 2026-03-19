@@ -81,7 +81,13 @@
 ## The wage and work
 **Problem** If two people work together, how do you split the money?
  - **The logic** Money is always divided based on the Work Done, not just time spent.
-  -**Example** If A does 3 unit/day work.B does 2unit/day work.If total pay is 500.
+    - **Example** If A does 3 unit/day work.B does 2unit/day work.If total pay is 500.
                Then,
                A's Share 3/5*500=300rs
                B's Share 2/5*500=200rs
+
+## Problem 12
+## The Handshake logic
+**Problem** If there are 10 people at a dinner at your home, and everyone shakes hands with everyone else exactly once, how many total handshakes happen?
+ - **The Formula** n(n-1)/2.
+  - **Solution** 10(10-1)/2=45 handshake.
