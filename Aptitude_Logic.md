@@ -91,3 +91,9 @@
 **Problem** If there are 10 people at a dinner at your home, and everyone shakes hands with everyone else exactly once, how many total handshakes happen?
  - **The Formula** n(n-1)/2.
   - **Solution** 10(10-1)/2=45 handshake.
+
+## Problem 13
+## The mirror clock trick
+**Problem** If a real clock shows 3:40, what time will it show in a Mirror Image?
+ - **The logic**Subtract the real time from 11:60 (which is just 12:00 written differently).
+  - **Solution**11:60−3:40=8:20
