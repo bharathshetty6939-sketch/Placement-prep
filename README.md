@@ -23,7 +23,8 @@ This repository tracks my daily progress in Python as I prepare for upcoming pla
 - [x] **Day19:** Found the unique room number using dictionaries and set.
 - [x] **Day20:** Checked condtion to print statement.
 - [x] **Day21:** Learned python comprehention method.
-- [x] **Day22:** Learned walrus method.  
+- [x] **Day22:** Learned walrus method.
+- [x] **Day23:** Used set method to remove duplicate values from list. 
 
 ## 🏆 HackerRank Challenges
 - [x] **Python If-Else:** Solved logic-based conditional problems.
