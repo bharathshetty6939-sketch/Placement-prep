@@ -21,7 +21,9 @@ This repository tracks my daily progress in Python as I prepare for upcoming pla
 - [x] **Day 17:** Mutation code solved.
 - [X] **Day 18:** Printed simple sentence using fstring.
 - [x] **Day19:** Found the unique room number using dictionaries and set.
-- [x] **Day20:** Checked condtion to print statement.  
+- [x] **Day20:** Checked condtion to print statement.
+- [x] **Day21:** Learned python comprehention method.
+- [x] **Day22:** Learned walrus method.  
 
 ## 🏆 HackerRank Challenges
 - [x] **Python If-Else:** Solved logic-based conditional problems.
