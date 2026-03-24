@@ -97,3 +97,10 @@
 **Problem** If a real clock shows 3:40, what time will it show in a Mirror Image?
  - **The logic**Subtract the real time from 11:60 (which is just 12:00 written differently).
   - **Solution**11:60−3:40=8:20
+
+## Problem 14
+## The pythagoras trick
+**Problem** if your walking 3km north and then turn right and walk 4km east ,how far are you from ur starting point.
+ - **The logic** Always remember "3-4-5" and "5-12-13" traingle rule.(a^2+b^2=c^2)
+  - **solution** 3^2+4^2=9+16=25
+                 25==5km..
