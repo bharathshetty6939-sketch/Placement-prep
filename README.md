@@ -36,6 +36,11 @@ This repository tracks my daily progress in Python as I prepare for upcoming pla
 - [x] **Python: List Comprehention:** Used list comprehention method to solve a problem.
 
 
+## AI MILESTONES.....
+ - [x] **1** Mathematical Foundations (Weighted Sums & Neurons)
+ - [ ] 
+
+
 ## 💻 Tech Stack
 - **Language:** Python 3
 - **Tools:** VS Code, Git, GitHub,Hackerrank
