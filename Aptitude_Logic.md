@@ -104,3 +104,17 @@
  - **The logic** Always remember "3-4-5" and "5-12-13" traingle rule.(a^2+b^2=c^2)
   - **solution** 3^2+4^2=9+16=25
                  25==5km..
+
+
+## Problem 15
+## The magic mirror clock
+**Problem** If a clock shows 3:15 when seen in a mirror, what is the actual time?
+ - **The logic** Simplye subtract it by 11:60.
+  - **Solution** 11:60-3:15=8:45..
+
+## Problem 16
+## The time angle
+**Problem** A clock is showing 9:20. What is the angle between the hour hand and the minute hand?
+ - **The formula** (30*H)-(5.5*M).Where H is hour M is minute.
+  - **Solution** (30*9)-(5.5*20)=(270-110)
+                                =160 Degree.
