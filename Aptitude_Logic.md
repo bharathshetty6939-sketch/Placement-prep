@@ -118,3 +118,13 @@
  - **The formula** (30*H)-(5.5*M).Where H is hour M is minute.
   - **Solution** (30*9)-(5.5*20)=(270-110)
                                 =160 Degree.
+
+
+## Problem 16
+## The handshake problem
+**Problem** There are 10 people in a room. If every person shakes hands with every other person exactly once, how many handshakes occur in total?
+ - **The formula** n(n-1)/2
+  - **Solution** 10(10-1)/2
+                =10(9)/2
+                =90/2
+                =45 Handshake.
