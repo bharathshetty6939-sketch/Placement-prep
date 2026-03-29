@@ -128,3 +128,11 @@
                 =10(9)/2
                 =90/2
                 =45 Handshake.
+
+## Problem 17
+## "The Speed & Distance Trap"
+**Problem** A car travels from Mangalore to Manipal at 40 km/h and returns at 60 km/h. What is the average speed for the entire journey?
+ - **The formula** 2xy/x+y
+  - **Solution** 2*40*60/40+60
+                =4800/100
+                =48km/h.
