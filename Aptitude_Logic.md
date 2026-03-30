@@ -136,3 +136,10 @@
   - **Solution** 2*40*60/40+60
                 =4800/100
                 =48km/h.
+
+## Problem 18
+## The train and the pole
+**Problem** A train 150 meters long passes a telephone pole in 12 seconds. What is the speed of the train in km/h?
+ - **The formula** first aapply distance/time in m/s.then multiply it by 18/5 or 3.6.
+  - **Solution** 150/12=12.5m/s.
+                =12.5*18/5=45km/h.
