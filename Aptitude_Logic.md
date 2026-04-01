@@ -143,3 +143,11 @@
  - **The formula** first aapply distance/time in m/s.then multiply it by 18/5 or 3.6.
   - **Solution** 150/12=12.5m/s.
                 =12.5*18/5=45km/h.
+
+## Problem 19
+## The Work & Time Equation
+**Problem** A can finish a piece of work in 10 days, and B can finish it in 15 days. If they work together, how many days will it take to finish the work?
+ - **Formula** x*y/x+y.
+  - **Solution** 10*15/10+15
+                =150/25
+                =6 Days.
