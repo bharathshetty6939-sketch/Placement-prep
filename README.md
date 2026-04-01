@@ -26,7 +26,12 @@ This repository tracks my daily progress in Python as I prepare for upcoming pla
 - [x] **Day22:** Learned walrus method.
 - [x] **Day23:** Used set method to remove duplicate values from list.
 - [x] **Day24:** Checked weathere the given number is indian number or not by using if else method.
-- [x] **Day25:** Used numpy method to find normalized score. 
+- [x] **Day25:** Used numpy method to find normalized score.
+- [x] **Day26:** Found the runnerup score using sort,set method.
+- [x] **Day27:** Reversed a string.
+- [x] **Day28:** Found the Fibonacci number within give number.
+- [x] **Day29:** Checked weathere the give year is leap year or not.
+- [ ] 
 
 ## 🏆 HackerRank Challenges
 - [x] **Python If-Else:** Solved logic-based conditional problems.
