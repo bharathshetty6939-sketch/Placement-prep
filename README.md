@@ -31,7 +31,7 @@ This repository tracks my daily progress in Python as I prepare for upcoming pla
 - [x] **Day27:** Reversed a string.
 - [x] **Day28:** Found the Fibonacci number within give number.
 - [x] **Day29:** Checked weathere the give year is leap year or not.
-- [ ] 
+- [x] **Day30:** Executed the number of occurance of data in dictionary. 
 
 ## 🏆 HackerRank Challenges
 - [x] **Python If-Else:** Solved logic-based conditional problems.
@@ -41,11 +41,16 @@ This repository tracks my daily progress in Python as I prepare for upcoming pla
 - [x] **Python: For loops:** Used For loops to Find leaf years.
 - [x] **Python: sorting:** Used sorting and split function to find the runnerup in the given multiple scores..
 - [x] **Python: List Comprehention:** Used list comprehention method to solve a problem.
+- [x] **Python: Any() All():** Learnt how any() all() function works in python. 
 
 
 ## AI MILESTONES.....
  - [x] **1** Mathematical Foundations (Weighted Sums & Neurons)
- - [ ] 
+ - [x] **2** Learnt about how np.reshape works in python.
+ - [x] **3** Learnt how importent standardization is in AI.
+ - [x] **4** Used np.clipping to compress or expand data to particular range for easy opeartion.
+ - [x] **5** Used np.where to print index of particular data with condtion.
+ - [x] **6** Used boolean masking to print data with condtion.  
 
 
 ## 💻 Tech Stack
