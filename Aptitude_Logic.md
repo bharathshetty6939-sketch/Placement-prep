@@ -151,3 +151,12 @@
   - **Solution** 10*15/10+15
                 =150/25
                 =6 Days.
+
+## Problem 20
+## "The Faulty Clock"
+**Problem**  A clock is set right at 8 a.m. The clock gains 10 minutes in 24 hours. What will be the true time when the clock indicates 1 p.m. the following day?
+ - **Formula** true hour=faulty hour*24/faulty hour ratio.
+  - **Solution** faulty hour ratio=24*1/6=145/6
+                 = 29*24/145/6
+                 =696/24.17
+                 =28.18 hour
