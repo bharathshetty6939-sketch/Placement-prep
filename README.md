@@ -31,7 +31,8 @@ This repository tracks my daily progress in Python as I prepare for upcoming pla
 - [x] **Day27:** Reversed a string.
 - [x] **Day28:** Found the Fibonacci number within give number.
 - [x] **Day29:** Checked weathere the give year is leap year or not.
-- [x] **Day30:** Executed the number of occurance of data in dictionary. 
+- [x] **Day30:** Executed the number of occurance of data in dictionary.
+- [x] **Day31:** Removed duplicate element using set. 
 
 ## 🏆 HackerRank Challenges
 - [x] **Python If-Else:** Solved logic-based conditional problems.
