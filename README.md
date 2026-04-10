@@ -42,7 +42,8 @@ This repository tracks my daily progress in Python as I prepare for upcoming pla
 - [x] **Python: For loops:** Used For loops to Find leaf years.
 - [x] **Python: sorting:** Used sorting and split function to find the runnerup in the given multiple scores..
 - [x] **Python: List Comprehention:** Used list comprehention method to solve a problem.
-- [x] **Python: Any() All():** Learnt how any() all() function works in python. 
+- [x] **Python: Any() All():** Learnt how any() all() function works in python.
+- [x] 
 
 
 ## AI MILESTONES.....
