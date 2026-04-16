@@ -160,3 +160,12 @@
                  = 29*24/145/6
                  =696/24.17
                  =28.18 hour
+
+# Problem 21
+# "The Clock Angle"
+**Problem** At 3:40, what is the angle between the hour hand and the minute hand?
+- **Formula** |(30H-5.5M)|
+ - **Solution** |(30*3-5.5*40)|
+               =|(90-220)|
+               =|-130|
+               =130
