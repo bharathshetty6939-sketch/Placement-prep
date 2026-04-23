@@ -35,8 +35,6 @@ This repository tracks my daily progress in Python as I prepare for upcoming pla
 - [x] **Day31:** Removed duplicate element using set.
 - [ ] 
 
-- [ ] 
-
 ## 🏆 HackerRank Challenges
 - [x] **Python If-Else:** Solved logic-based conditional problems.
 - [x] **Arithmetic Operators:** Solved Arithematic based problems.
