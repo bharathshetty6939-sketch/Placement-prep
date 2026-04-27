@@ -165,9 +165,15 @@
 # "The Clock Angle"
 **Problem** At 3:40, what is the angle between the hour hand and the minute hand?
 - **Formula** |(30H-5.5M)|
- - **Solution** |(30*3-5.5*40)|
+ - **Solution** |(30 * 3-5.5 * 40)|
                =|(90-220)|
                =|-130|
                =130
 
-problem 22
+# Problem 22
+# "The Replaced student
+**Problem** The average weight of 8 people increases by 2.5 kg when a new person replaces one of them who weighs 65 kg. What is the weight of the new person?
+ - **Formula** new weight=weight of replaced student +(no of student*average weight increase)
+  - **Solution** new weight =65kg+(8*2.5kg)
+                            =65kg+(20kg)
+                            =85kg
