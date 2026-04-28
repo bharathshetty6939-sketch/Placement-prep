@@ -177,3 +177,14 @@
   - **Solution** new weight =65kg+(8*2.5kg)
                             =65kg+(20kg)
                             =85kg
+
+# Problem 23
+# ""Profit & Loss (The Discount Trap)"
+**Problem** A shopkeeper marks his goods 20% above the cost price and then allows a 10% discount. What is his actual percentage profit?
+ - **Logic**Don't just subtract 10 from 20.
+            1.Assume Cost Price (CP) = 100.
+            2.Marked Price (MP) becomes 120.
+            3.The 10% discount is taken off the 120, not the 100.
+    - **Solution** 120-10%=108
+                  =108-100
+                  =8% profit.
