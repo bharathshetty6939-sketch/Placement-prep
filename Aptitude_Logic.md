@@ -188,3 +188,15 @@
     - **Solution** 120-10%=108
                   =108-100
                   =8% profit.
+
+# Problem 24
+# "Boats and Streams"
+**Problem** A boat travels at 15 km/h in still water. The speed of the river (stream) is 3 km/h.
+            What is the Downstream speed (moving with the water)?
+            What is the Upstream speed (moving against the water)?
+ - **The logic** Perform addition for Downstream and substraction for Upstream
+   - **Solution** Downstream=15+3km/h
+                            =18km/h
+                  Upstream=15-3km/h
+                          =12km/h.
+  -
