@@ -199,4 +199,16 @@
                             =18km/h
                   Upstream=15-3km/h
                           =12km/h.
-  -
+
+# Problem 25
+# The "Thief and Owner"
+**Problem**  A thief steals a bike at 1:30 PM and drives it at 40 km/hr. The theft is discovered at 2:00 PM and the owner sets off in a car at 50 km/hr.
+ - **The formula** time=distance gap/relative speed
+  - **Solution** distance gap=speed*time
+                             =40km/h*0.5hr
+                             =20km
+                relative speed=50km/h-40km/h
+                              =10km/h
+                time=20km/10km/h
+                    =2hr
+                the theft was discovered in 2pm+2hr so the theaf was caught at 4 pm.                 
