@@ -46,6 +46,7 @@ This repository tracks my daily progress in Python as I prepare for upcoming pla
 - [x] **Python: List Comprehention:** Used list comprehention method to solve a problem.
 - [x] **Python: Any() All():** Learnt how any() all() function works in python.
 - [ ] 
+- [ ] 
 
 
 
