@@ -211,4 +211,15 @@
                               =10km/h
                 time=20km/10km/h
                     =2hr
-                the theft was discovered in 2pm+2hr so the theaf was caught at 4 pm.                 
+                the theft was discovered in 2pm+2hr so the theaf was caught at 4 pm.   
+
+# Problem 26
+# Pipes and Cisterns
+**Problem** Pipe A can fill a tank in 10 hours, and Pipe B can fill the same tank in 15 hours. If both pipes are opened together, how long will it take to fill the tank?
+ - **The logic**Find the work done by each pipe in 1 hour.(By lcm method)        
+  -  **Solution** 1/10+1/15
+                =3/10+2/15
+                =3+2/30
+                =5/30
+                =1/6
+                =6HR..      
