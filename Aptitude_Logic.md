@@ -223,3 +223,11 @@
                 =5/30
                 =1/6
                 =6HR..      
+
+# Problem 27
+# Profit and Loss
+**Problem** A shopkeeper sells an item at a profit of 15%. If he had sold it for ₹18 more, he would have gained 18%. What is the Cost Price (CP) of the item?
+ - **Solution** profit gap=18%-15%=3%
+                profit for 3%=18rs
+                profit for 1%=18/3=6rs
+                Cost price=6*100=600.
