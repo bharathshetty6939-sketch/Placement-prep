@@ -60,7 +60,8 @@ This repository tracks my daily progress in Python as I prepare for upcoming pla
  - [x] **3** Learnt how importent standardization is in AI.
  - [x] **4** Used np.clipping to compress or expand data to particular range for easy opeartion.
  - [x] **5** Used np.where to print index of particular data with condtion.
- - [x] **6** Used boolean masking to print data with condtion.  
+ - [x] **6** Used boolean masking to print data with condtion.
+ - [ ] 
 
 
 ## 💻 Tech Stack
