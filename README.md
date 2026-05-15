@@ -63,6 +63,8 @@ This repository tracks my daily progress in Python as I prepare for upcoming pla
  - [x] **6** Used boolean masking to print data with condtion.
  - [ ] 
 
+ - [ ] 
+
 
 ## 💻 Tech Stack
 - **Language:** Python 3
